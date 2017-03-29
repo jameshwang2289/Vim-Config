@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/james/Documents/research/SENSEI-Panama'
+let g:netrw_dirhist_2='/home/james/Documents/research/SENSEI-Panama/imagePointCloudGenerator'
+let g:netrw_dirhist_3='/home/james/Documents/research/xyzGen'
+let g:netrw_dirhist_4='/home/james/Documents/research'
+let g:netrw_dirhist_5='/home/james/Documents/research/SENSEI-Panama'
+let g:netrw_dirhist_6='/home/james/Documents/research/SENSEI-Panama/imagePointCloudGenerator'
